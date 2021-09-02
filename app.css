@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+}
+.thumb-image {
+  width: 100px; /*original: 50px */
+}
+
+.update-image {
+  width: 200px;
+}
+/* .product-img {
+  width: 50px;
+}
+.product-img-view {
+  width: 120px;
+} */
