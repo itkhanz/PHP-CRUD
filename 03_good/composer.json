@@ -1,0 +1,15 @@
+{
+  "name": "itkhan/03_good",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "itkhan",
+      "email": "itkhanz@gmail.com"
+    }
+  ],
+  "require": {}
+}
